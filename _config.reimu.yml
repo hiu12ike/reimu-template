@@ -649,12 +649,12 @@ service_worker:
 
 # Experimental
 live2d:
-  enable: false
+  enable: true
   position: left # left or right
 
 # Experimental
 live2d_widgets:
-  enable: false
+  enable: true
   position: left # left or right
 
 # Please turn on pjax to use this feature
@@ -666,7 +666,7 @@ player:
     # https://github.com/DIYgod/APlayer
     enable: false
     options:
-      audio: []
+      audio: https://archive.org/download/Touhou-06-EOSD-Soundtrack/Tomboyish%20Girl%20in%20Love.mp3
       fixed:
       autoplay:
       loop:
