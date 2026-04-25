@@ -666,7 +666,7 @@ player:
     # https://github.com/DIYgod/APlayer
     enable: true
     options:
-      audio: https://archive.org/download/Touhou-06-EOSD-Soundtrack/Tomboyish%20Girl%20in%20Love.mp3
+      audio: "https://archive.org/download/Touhou-06-EOSD-Soundtrack/Tomboyish%20Girl%20in%20Love.mp3"
       fixed:
       autoplay:
       loop:
