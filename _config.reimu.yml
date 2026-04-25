@@ -472,8 +472,8 @@ preloader:
     en: Loading...
     ja: 少女祈祷中...
     pt-BR: Carregando...
-  icon: # default use inline svg for fast speed, you can use a image url, like '/images/taichi.png'
-  rotate: true # whether to rotate the icon
+  icon: 'https://media1.tenor.com/m/gFqA1zN0WpAAAAAC/sonia-magnolia-sonia-pokemon.gif' # default use inline svg for fast speed, you can use a image url, like '/images/taichi.png'
+  rotate: false # whether to rotate the icon
 
 # see https://github.com/D-Sketon/aos.js
 animation:
