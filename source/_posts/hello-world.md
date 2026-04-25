@@ -3,6 +3,8 @@ title: My spring 2026 anime watchlist
 description: I go over what I will and won't watch in the spring 2026 anime season.
 publicationDate: 2026-04-15T14:43:21.797Z
 comments: true
+cover: https://preview.redd.it/spring-2026-release-schedule-v0-wopwx0gj9hsg1.jpeg?auto=webp&s=3676993117f19b02b46c60b243d02504e7789b13
+banner: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7qWAF-BIZ7oZHK2Z7mUww1lHmOsSruFB8aQ&s
 ---
  
  
