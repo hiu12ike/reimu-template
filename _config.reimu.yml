@@ -171,7 +171,7 @@ show_update_time: false # If you want to show the update time, please set this t
 
 # Summary content
 summary:
-  enable: false
+  enable: true
   style: 'subtitle' # 'subtitle' or 'blockquote'
 
 # Internationalization
@@ -664,7 +664,7 @@ player:
   # if you enable meting, you must enable aplayer first
   aplayer:
     # https://github.com/DIYgod/APlayer
-    enable: false
+    enable: true
     options:
       audio: https://archive.org/download/Touhou-06-EOSD-Soundtrack/Tomboyish%20Girl%20in%20Love.mp3
       fixed:
