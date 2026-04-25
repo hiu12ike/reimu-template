@@ -673,31 +673,31 @@ player:
         cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.jpg',
         lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/hikarunara.lrc',
         theme: '#ebd0c2'
-    }, {
+      }, {
         name: 'トリカゴ',
         artist: 'XX:me',
         url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.mp3',
         cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.jpg',
         lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/darling.lrc',
         theme: '#46718b'
-    }, {
+      }, {
         name: '前前前世',
         artist: 'RADWIMPS',
         url: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.mp3',
         cover: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.jpg',
         lrc: 'https://cn-south-17-aplayer-46154810.oss.dogecdn.com/yourname.lrc',
         theme: '#505d6b'
-    }, {
+      }, {
         name: 'Cirno theme',
         artist: 'ZUN',
         url: 'https://archive.org/download/Touhou-06-EOSD-Soundtrack/Tomboyish%20Girl%20in%20Love.mp3',
         cover: 'https://archive.org/download/Touhou-06-EOSD-Soundtrack/Tomboyish%20Girl%20in%20Love.png',
         theme: '#ebd0c2',
-    }]
+      }]
       fixed: false
       autoplay: false
       loop: 'none'
-      order: 'random'
+      order: 'list'
       preload: true
       volume: 0.7
       mutex: true
